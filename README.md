@@ -6,10 +6,10 @@ We conduct feature extraction using several classifiers employing audio signals 
 We are using the audio signals from distinct datasets (ASVspoof2019, ASVspoof2021, and VSDC) as input and perform feature extraction with different classifiers (SVM, GMM, CNN, CNN-GRU). We performed cross-corpus evaluation for generalized countermeasures for better discrimination of genuine samples from fake ones.
 
 The datasets can be downloaded from the following links:
+
   ASVspoof2019: https://www.asvspoof.org/index2019.html
   
-  ASVspoof2021: [https://www.asvspoof.org/index2019.html](https://www.asvspoof.org/index2021.html)
-  
+  ASVspoof2021: https://www.asvspoof.org/index2021.html
   
   VSDC: https://www.secs.oakland.edu/~mahmood/datasets/audiospoof.html
 
