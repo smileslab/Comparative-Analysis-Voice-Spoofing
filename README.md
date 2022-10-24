@@ -1,4 +1,4 @@
-# comparativeanalysis
+# Comparative_Analysis
 This is the implementation of our work titled "Voice Spoofing Countermeasures: Taxonomy, State-of-the-art, experimental analysis of generalizability, open challenges, and the way forward," which was available on arxiv at "https://arxiv.org/abs/2210.00417".
 
 We conduct feature extraction using several classifiers employing audio signals from three different datasets (ASVspoof2019, ASVspoof2021, and VSDC) as input (SVM, GMM, CNN, CNN-GRU). We tested broad countermeasures with different classfiers (SVM, GMM, CNN, CNN-GRU) and across corpora to improve the classification of real samples from spoof ones. 
